@@ -1,2 +1,2 @@
-# Basic-Card-Presentation
-Descripción personal
+# Carta Básica de Presentación
+Un poco de mi
